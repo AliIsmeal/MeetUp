@@ -1,0 +1,86 @@
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\ApplicationInsights.config
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\roslyn\csc.exe
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\roslyn\System.Collections.Immutable.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\roslyn\vbc.exe
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\roslyn\VBCSCompiler.exe
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\roslyn\VBCSCompiler.exe.config
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\meet up.dll.config
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\meet up.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\meet up.pdb
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Antlr3.Runtime.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\EntityFramework.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\EntityFramework.SqlServer.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.AI.Web.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.AI.WindowsServer.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.ApplicationInsights.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.Security.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.Security.Google.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Web.Infrastructure.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Newtonsoft.Json.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Owin.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\System.Web.Helpers.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\System.Web.Mvc.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\System.Web.Optimization.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\System.Web.Razor.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\System.Web.WebPages.Deployment.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\System.Web.WebPages.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\System.Web.WebPages.Razor.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\WebGrease.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.AI.Web.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.AI.WindowsServer.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.ApplicationInsights.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\System.Web.Helpers.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\System.Web.Mvc.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\System.Web.Optimization.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\System.Web.Razor.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\System.Web.WebPages.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\System.Web.WebPages.Deployment.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\System.Web.WebPages.Razor.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Antlr3.Runtime.pdb
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Newtonsoft.Json.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\EntityFramework.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\EntityFramework.SqlServer.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.Security.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.Security.Google.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\obj\Debug\meet up.csprojResolveAssemblyReference.cache
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\obj\Debug\meet up.dll
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\obj\Debug\meet up.pdb
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\obj\Debug\meet_up.Migrations.InitialCreate.resources
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\obj\Debug\meet up.csproj.GenerateResource.Cache
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\obj\Debug\meet_up.Migrations.AddFirstName.resources
+c:\users\aliam\documents\visual studio 2015\Projects\meet up\meet up\obj\Debug\meet_up.Migrations.second.resources
